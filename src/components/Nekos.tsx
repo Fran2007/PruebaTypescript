@@ -1,5 +1,4 @@
 import {useFetch} from '../hooks/useFetch';
-import { NekosProps } from './NekosProps';
 
 interface Item {
     url: string;
